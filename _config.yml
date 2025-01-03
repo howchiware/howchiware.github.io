@@ -1,6 +1,6 @@
 # Setup
 title: Howchiware Land
-description: 하은의 개발 일지 페이지
+description: 하은의 개발 블로그
 url: https://howchiware.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -54,5 +54,4 @@ sass:
 # Specify the author for blog posts
 author:
   name: Kim Haeun
-  url: https://github.com/howchiware/
   email: howni0630@gmail.com
